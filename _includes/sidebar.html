@@ -11,14 +11,14 @@
           {% for folderitem in folder.folderitems %}
           {% if folderitem.output contains "web" %}
           {% if folderitem.external_url %}
-          <li><a title="{{folderitem.title}}" href="{{root_url}}/{{folderitem.external_url}}" target="_blank" rel="noopener">{{folderitem.title}}</a></li>
+          <li><a title="{{folderitem.title}}" href="{{site.base_url}}/{{folderitem.external_url}}" target="_blank" rel="noopener">{{folderitem.title}}</a></li>
           {% elsif page.url == folderitem.url %}
-          <li class="active"><a title="{{folderitem.title}}" href="{{root_url}}/{{folderitem.url}}">{{folderitem.title}}</a></li>
+          <li class="active"><a title="{{folderitem.title}}" href="{{site.base_url}}/{{folderitem.url}}">{{folderitem.title}}</a></li>
           {% elsif folderitem.type == "empty" %}
-          <li><a title="{{folderitem.title}}" href="{{root_url}}/{{root_url}}{{folderitem.url}}">{{folderitem.title}}</a></li>
+          <li><a title="{{folderitem.title}}" href="{{site.base_url}}/{{site.base_url}}{{folderitem.url}}">{{folderitem.title}}</a></li>
 
           {% else %}
-          <li><a title="{{folderitem.title}}" href="{{root_url}}/{{folderitem.url}}">{{folderitem.title}}</a></li>
+          <li><a title="{{folderitem.title}}" href="{{site.base_url}}/{{folderitem.url}}">{{folderitem.title}}</a></li>
           {% endif %}
           {% for subfolders in folderitem.subfolders %}
           {% if subfolders.output contains "web" %}
@@ -28,11 +28,11 @@
                   {% for subfolderitem in subfolders.subfolderitems %}
                   {% if subfolderitem.output contains "web" %}
                   {% if subfolderitem.external_url %}
-                  <li><a title="{{subfolderitem.title}}" href="{{root_url}}/{{subfolderitem.external_url}}" target="_blank" rel="noopener">{{subfolderitem.title}}</a></li>
+                  <li><a title="{{subfolderitem.title}}" href="{{site.base_url}}/{{subfolderitem.external_url}}" target="_blank" rel="noopener">{{subfolderitem.title}}</a></li>
                   {% elsif page.url == subfolderitem.url %}
-                  <li class="active"><a title="{{subfolderitem.title}}" href="{{root_url}}/{{subfolderitem.url}}">{{subfolderitem.title}}</a></li>
+                  <li class="active"><a title="{{subfolderitem.title}}" href="{{site.base_url}}/{{subfolderitem.url}}">{{subfolderitem.title}}</a></li>
                   {% else %}
-                  <li><a title="{{subfolderitem.title}}" href="{{root_url}}/{{subfolderitem.url}}">{{subfolderitem.title}}</a></li>
+                  <li><a title="{{subfolderitem.title}}" href="{{site.base_url}}/{{subfolderitem.url}}">{{subfolderitem.title}}</a></li>
                   {% endif %}
                   {% endif %}
                   {% endfor %}

@@ -9,6 +9,9 @@ topnav_title: Scobalula's Wiki
 site_title: Scobalula's Wiki
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
+base_url: https://scobalula.github.io/wiki
+# base url
+
 company_name: Philip/Scobalula
 # this appears in the footer
 
