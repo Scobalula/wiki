@@ -1,0 +1,13 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  levels: one
+  folders:
+
+  - title: Sections
+    output: web
+    folderitems:
+    - title: "Call of Duty: Black Ops III Mod Tools"
+      url: "black_ops_3/index.html"
+      output: web

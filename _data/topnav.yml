@@ -1,0 +1,21 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: GitHub
+      external_url: https://github.com/Scobalula/wiki
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+
+    - title: Sections
+      folderitems:
+        - title: "Call of Duty: Black Ops III Mod Tools"
+          url: "black_ops_3/index.html"
+    - title: Other
+      folderitems:
+        - title: "Discord"
+          external_url: "https://discord.gg/fGVpV39"
