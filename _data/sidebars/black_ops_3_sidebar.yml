@@ -35,3 +35,8 @@ entries:
       url: black_ops_3/adding_ambient_rooms.html
       output: web, pdf
       type: homepage
+      
+    - title: Using Music States
+      url: black_ops_3/using_music_states.html
+      output: web, pdf
+      type: homepage
