@@ -10,6 +10,7 @@ site_title: Scobalula's Wiki
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 base_url: https://scobalula.github.io/wiki
+# base_url: 
 # base url
 
 company_name: Philip/Scobalula
