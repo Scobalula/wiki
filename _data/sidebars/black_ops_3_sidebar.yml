@@ -35,3 +35,11 @@ entries:
       url: black_ops_3/adding_ambient_rooms.html
       output: web, pdf
       type: homepage
+
+  - title: Animation
+    output: web,pdf
+    folderitems:
+    - title: How to use Call of Duty IK Anims
+      url: black_ops_3/call_of_duty_ik_animations.html
+      output: web,pdf
+      type: homepage
