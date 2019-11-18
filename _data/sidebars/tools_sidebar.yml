@@ -1,0 +1,28 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: "Tools/Plugins/Scripts"
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: CoDImageUtil
+    output: web, pdf
+    folderitems:
+
+    - title: Linker Patches
+      url: black_ops_3/tool_patches.html
+      output: web, pdf
+      type: homepage
