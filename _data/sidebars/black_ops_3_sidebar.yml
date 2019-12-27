@@ -47,3 +47,10 @@ entries:
       url: black_ops_3/call_of_duty_ik_animations.html
       output: web,pdf
       type: homepage
+  - title: LUI
+    output: web,pdf
+    folderitems:
+    - title: UI Element Function Reference
+      url: black_ops_3/lui_element_functions.html
+      output: web,pdf
+      type: homepage
