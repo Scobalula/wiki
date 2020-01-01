@@ -47,6 +47,13 @@ entries:
       url: black_ops_3/call_of_duty_ik_animations.html
       output: web,pdf
       type: homepage
+  - title: Weapons
+    output: web,pdf
+    folderitems:
+    - title: Setting up Weapon Attachments
+      url: black_ops_3/setting_up_weapon_attachments.html
+      output: web,pdf
+      type: homepage
   - title: LUI
     output: web,pdf
     folderitems:
