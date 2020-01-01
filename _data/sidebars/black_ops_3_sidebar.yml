@@ -58,3 +58,7 @@ entries:
       url: black_ops_3/lui_clips_and_states.html
       output: web,pdf
       type: homepage
+    - title: UILists & Datasources
+      url: black_ops_3/lui_uilists_datasources.html
+      output: web,pdf
+      type: homepage
