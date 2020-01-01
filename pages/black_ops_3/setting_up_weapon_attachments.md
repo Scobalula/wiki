@@ -58,10 +58,10 @@ Attachment assets set up the generalised properties for a specific attachment, s
 It's important to remember that if you are keeping any additional attachment assets under `weaponattachments`, if you are releasing these ports, you could then cause interference if multiple people release ports, all using `weaponattachments`. Instead, for the sake of compatibility, Cut your attachments and put them under a GDT that will not interfere.
 
 ### Troubleshooting
-#### One of the attachments on my weapon is not applying in-game**
+#### One of the attachments on my weapon is not applying in-game
 This attachment is using an attachment asset which you do not have in your mod tools. Check the attachment mappings table to see what attachment it is, rip it with HydraX and add it to your APE. It's not necessary to put it into your zone.
 
-#### Linker is erroring, saying `attachment_name` not found**
+#### Linker is erroring, saying `attachment_name` not found
 Again, you do not have your attachment in your mod tools, and it wasn't provided to us in the asset lists either (this is why it's outright errored). Follow the same process above to acquire it.
 
 ## Attachment Unique assets
