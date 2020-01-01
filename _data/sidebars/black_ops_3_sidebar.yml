@@ -62,3 +62,7 @@ entries:
       url: black_ops_3/lui_uilists_datasources.html
       output: web,pdf
       type: homepage
+    - title: Horizontal Progress Bar
+      url: black_ops_3/lui_horizontal_progress_bar.html
+      output: web,pdf
+      type: homepage
