@@ -43,20 +43,25 @@ entries:
   - title: Animation
     output: web,pdf
     folderitems:
+    
     - title: How to use Call of Duty IK Anims
       url: black_ops_3/call_of_duty_ik_animations.html
       output: web,pdf
       type: homepage
+      
   - title: Weapons
     output: web,pdf
     folderitems:
+    
     - title: Setting up Weapon Attachments
       url: black_ops_3/setting_up_weapon_attachments.html
       output: web,pdf
       type: homepage
+      
   - title: LUI
     output: web,pdf
     folderitems:
+    
     - title: UI Element Function Reference
       url: black_ops_3/lui_element_functions.html
       output: web,pdf
