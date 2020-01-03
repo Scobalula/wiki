@@ -3,7 +3,7 @@ title: LUI Engine Function Reference
 keywords: blackops3, lui
 last_updated: 3rd January 2020
 credits: [Blak, Scobalula, JariK, DTZxPorter]
-summary: "This is a reference with examples on how to use various LUI Engine functions."
+summary: "This is a reference on various Engine functions."
 sidebar: black_ops_3_sidebar
 permalink: black_ops_3/lui_engine_functions.html
 folder: black_ops_3
