@@ -70,6 +70,10 @@ entries:
       url: black_ops_3/lui_engine_functions.html
       output: web,pdf
       type: homepage
+    - title: Element Positioning
+      url: black_ops_3/lui_element_positioning.html
+      output: web,pdf
+      type: homepage
     - title: Clips and States
       url: black_ops_3/lui_clips_and_states.html
       output: web,pdf
