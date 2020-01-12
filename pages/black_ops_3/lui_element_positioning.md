@@ -38,7 +38,7 @@ Then finally, there's the double anchor. For this, both anchors are set to true.
 ## Graphic: How does Start / End position offsetting work?
 {% include note.html content="This does not apply to double anchoring." %}
 
-![](https://i.gyazo.com/3922c82be93801f4ac8a7a3fbffcdc97.png)
+![](https://i.gyazo.com/064dcc6e1787b803beabd38340e5ed0d.png)
 
 So, to explain:
 
