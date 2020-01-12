@@ -9,7 +9,7 @@ permalink: black_ops_3/lui_element_positioning.html
 folder: black_ops_3
 ---
 
-## Pretext
+## Foreword
 Element positioning is possible one of the most annoying things, at time of writing, to learn in LUI as a beginner. However, I believe this can be primarily attributed to a lack of reference & lack of guidance out there for setting up element positioning. What a convenient opportunity to write a guide on it!
 
 This guide will go through basic Left/Right/Top/Bottom anchored positioning, as well as central positioning and double anchoring.
@@ -56,7 +56,7 @@ So 24 is my start position, and 24+24 is 48, which is my end position. So I ente
 So now my element is 24px from the top of the parent element, and 24px in height.
 
 ### Negative positioning
-Now I've decided that I want my element to be rightwardly aligned too `false, true`. I want it 30px from the widget boundary to the left, and it to be 50px in width.]
+Now I've decided that I want my element to be rightwardly aligned too `false, true`. I want it 30px from the widget boundary to the left, and it to be 50px in width.
 
 As shown from the graphic above, positive positioning will always move the element to the right, but negative positioning will move it leftward, so let's use negative positioning.
 
