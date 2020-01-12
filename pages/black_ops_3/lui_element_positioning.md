@@ -36,7 +36,7 @@ If you set neither anchor to true, your element will centre align. You can then 
 Then finally, there's the double anchor. For this, both anchors are set to true. This will then position the element to fill the entire boundaries of the parent element, unless you apply start & end positions. The way you do this is a little different, and will be covered later in the guide.
 
 ## Graphic: How does Start / End position offsetting work?
-{% include note.html content="This does not apply to double anchoring." %}
+{% include note.html content="This does not apply to double anchoring in the exact same way." %}
 
 ![](https://i.gyazo.com/064dcc6e1787b803beabd38340e5ed0d.png)
 
