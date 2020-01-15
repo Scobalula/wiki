@@ -74,6 +74,10 @@ entries:
       url: black_ops_3/lui_element_positioning.html
       output: web,pdf
       type: homepage
+    - title: Model Subscriptions
+      url: black_ops_3/lui_subscribetomodel.html
+      output: web,pdf
+      type: homepage
     - title: Clips and States
       url: black_ops_3/lui_clips_and_states.html
       output: web,pdf
