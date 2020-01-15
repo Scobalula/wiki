@@ -18,7 +18,7 @@ There are multiple forms of model subscription - global subscriptions, normal su
 The principles of a model subscription as set out above are almost universal. Here are the key points to observe:
 * The callback function will always pass the model reference as the only parameter.
 * You can get the value of your model with `Engine.GetModelValue(ModelRef)`. 
-* You must perform a nil check on your model value variable to ensure it is valid (by doing `if ModelRef then`). If a nil value is passed to a function such as `setText`, your game will UI Error.
+* You must perform a nil check on your model value variable to ensure it is valid (by doing `if ModelVal then`). If a nil value is passed to a function such as `setText`, your game will UI Error.
 
 ## Element models
 Element models are produced by a data source's models sub-table (see [Using UILists and Datasources](https://scobalula.github.io/wiki/black_ops_3/lui_uilists_datasources.html)), and can be accessed with the function `linkToElementModel`. Here is an example below:
