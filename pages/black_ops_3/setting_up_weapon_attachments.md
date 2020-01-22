@@ -9,7 +9,7 @@ permalink: black_ops_3/setting_up_weapon_attachments.html
 folder: black_ops_3
 ---
 
-{% include custom/modified.html date="22/1/2020"  content="Small adjustment made to prevent confusion." %}
+{% include custom/modified.html date="22/1/2020"  content="- Small adjustment made to prevent confusion." %}
 
 ## Introduction
 Black Ops III (and Black Ops II) use a setup for attachments which allows users to apply attachments with the console (weaponname+attachment+attachment…) and customize weapons to have attachments (either levelcommon or weapon kits), without the need for additional weaponfiles. This tutorial intends to document this setup and guide users to give their weapon ports this capability. It’s not recommended to use this in a standalone map unless you plan on configuring weapon kits, as you will likely have a set idea of what you will use on your gun and can set it up in your weaponfile.
