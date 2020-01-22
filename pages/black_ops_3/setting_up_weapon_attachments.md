@@ -1,13 +1,15 @@
 ---
 title: Setting up Weapon Attachments
 keywords: blackops3, weapons
-last_updated: 1st January 2020
+last_updated: 22nd January 2020
 credits: [Blak, Scobalula, DTZxPorter, JariK, Marvel4]
 summary: "A guide on how to setup attachments on your weapon port."
 sidebar: black_ops_3_sidebar
 permalink: black_ops_3/setting_up_weapon_attachments.html
 folder: black_ops_3
 ---
+
+{% include modified.html date="22/1/2020"  content="Small adjustment made to prevent confusion." %}
 
 ## Introduction
 Black Ops III (and Black Ops II) use a setup for attachments which allows users to apply attachments with the console (weaponname+attachment+attachment…) and customize weapons to have attachments (either levelcommon or weapon kits), without the need for additional weaponfiles. This tutorial intends to document this setup and guide users to give their weapon ports this capability. It’s not recommended to use this in a standalone map unless you plan on configuring weapon kits, as you will likely have a set idea of what you will use on your gun and can set it up in your weaponfile.
@@ -77,7 +79,7 @@ Create an `attachmentUnique` asset in your GDT. A rule of thumb of what to call 
 
 From here, you can derive each of your weapon’s attachments under `_none`, giving them suffixes like `_extclip`, `_fastreload` among others. In the assets, you set any models needed under `Attachment #X`, under View & World models. Changes in animations are applied under `XAnims`. If your weapon needs certain parts hidden when an attachment is applied, use the field `Hide Tags` for this.
 
-{% include important.html content="You need to specify in your AU assets the `attachmenttype` and `Attachment Association`. What you set these to is self-explanatory." %}
+{% include important.html content="You need to specify in your AU assets the `attachmenttype` and `Attachment Association`. What you set these to is self-explanatory. Take note of what you set these to, they are the code name to apply your attachment in-game, e.g. extbarrel corresponds to `/give smg_ppsh+extbarrel`" %}
 
 {% include note.html content="Many games use a `tag_sight_off` and `tag_sight_on` system (or similarly named) where off is hidden when the player is using iron sights and on is hidden when the player is using an optic. Ensure that you put `tag_sight_off` (or however it is named for the gun) in your root Attachment Unique asset and change it accordingly to its on counterpart for any optic Attachment Unique asset." %}
 
