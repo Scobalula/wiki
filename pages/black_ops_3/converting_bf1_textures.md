@@ -1,5 +1,5 @@
 ---
-title: 
+title: Converting Battlefield 1 Textures
 keywords: blackops3, battlefield1, assets
 last_updated: 15th February 2020
 credits: [Blak, Scobalula, DamianoTBM]
@@ -9,7 +9,7 @@ permalink: black_ops_3/converting_bf1_textures.html
 folder: black_ops_3
 ---
 
-{% include important.html content="It is highly recommended to download and use [CoDImageTool](https://github.com/Scobalula/CoDImageUtil) for sections of this guide (you won't be guided on how to do things the hard way if CoDImageTool has an easy way). You will also need [Frosty Editor](https://frostytoolsuite.com/downloads.html) for ripping textures from Battlefield 1 (this will not be covered in the scope of this guide however)." %}
+{% include important.html content="It is highly recommended to download and use [CoDImageTool](https://github.com/Scobalula/CoDImageUtil) for this guide (you won't be guided on how to do things the hard way if CoDImageTool has an easy way). You will also need [Frosty Editor](https://frostytoolsuite.com/downloads.html) for ripping textures from Battlefield 1 (this will not be covered in the scope of this guide however)." %}
 
 ## Overview
 In Battlefield 1, weapon textures are stored within two images; a `NRM` texture and a `CS` texture. The overall workflow for BF1 guns is: Color, Normal, Metallic, Gloss. Obtaining & where necessary converting these textures will be covered in this guide.
