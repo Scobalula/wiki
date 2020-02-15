@@ -31,6 +31,15 @@ entries:
       url: black_ops_3/sunshine_lvi_editor.html
       output: web, pdf
       type: homepage
+  
+  - title: Asset Porting
+    output: web, pdf
+    folderitems:
+    
+      - title: Converting Battlefield 1 Textures
+        url: black_ops_3/converting_bf1_textures.html
+        output: web, pdf
+        type: homepage
 
   - title: Audio
     output: web, pdf
