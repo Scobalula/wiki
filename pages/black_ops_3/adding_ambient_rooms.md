@@ -108,7 +108,7 @@ This path is relative to `Call of Duty Black Ops III\map_source`, for example if
 
 
 ```json
-"MapFile" : "`zm\\zm_giant.map",
+"MapFile" : "zm\\zm_giant.map",
 ```
 
 Keep note of the double backslash, it is required.
