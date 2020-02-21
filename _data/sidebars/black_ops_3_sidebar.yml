@@ -104,3 +104,12 @@ entries:
       url: black_ops_3/lui_horizontal_progress_bar.html
       output: web,pdf
       type: homepage
+      
+  - title: Scripting
+    output: web,pdf
+    folderitems:
+      
+    - title: Using Developer Mode
+      url: black_ops_3/using_developer_mode.html
+      output: web,pdf
+      type: homepage
