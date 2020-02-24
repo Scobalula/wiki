@@ -31,11 +31,16 @@ entries:
       url: black_ops_3/sunshine_lvi_editor.html
       output: web, pdf
       type: homepage
-  
+
+    - title: Zeus
+      url: black_ops_3/zeus_bsp_converter.html
+      output: web, pdf
+      type: homepage
+
   - title: Asset Porting
     output: web, pdf
     folderitems:
-    
+
       - title: Converting Battlefield 1 Textures
         url: black_ops_3/converting_bf1_textures.html
         output: web, pdf
@@ -104,11 +109,11 @@ entries:
       url: black_ops_3/lui_horizontal_progress_bar.html
       output: web,pdf
       type: homepage
-      
+
   - title: Scripting
     output: web,pdf
     folderitems:
-      
+
     - title: Using Developer Mode
       url: black_ops_3/using_developer_mode.html
       output: web,pdf
