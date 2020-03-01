@@ -2,7 +2,7 @@
 title: Enabling left DPAD HUD
 keywords: blackops3, lui
 last_updated: 1st March 2020
-credits: [Blak, Scobalula, xSanchez78]
+credits: [Blak, Scobalula, xSanchez78, JariK]
 summary: "A guide on how to enable the left DPAD HUD in LUI."
 sidebar: black_ops_3_sidebar
 permalink: black_ops_3/lui_enabling_left_dpad.html
