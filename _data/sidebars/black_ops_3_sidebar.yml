@@ -109,6 +109,10 @@ entries:
       url: black_ops_3/lui_horizontal_progress_bar.html
       output: web,pdf
       type: homepage
+    - title: Enabling Left DPAD HUD
+      url: black_ops_3/lui_enabling_left_dpad.html
+      output: web,pdf
+      type: homepage
 
   - title: Scripting
     output: web,pdf
