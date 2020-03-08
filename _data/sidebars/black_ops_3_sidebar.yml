@@ -81,12 +81,16 @@ entries:
     output: web,pdf
     folderitems:
 
-    - title: UI Element Function Reference
+    - title: Element Function Reference
       url: black_ops_3/lui_element_functions.html
       output: web,pdf
       type: homepage
-    - title: UI Engine Function Reference
+    - title: Engine Function Reference
       url: black_ops_3/lui_engine_functions.html
+      output: web,pdf
+      type: homepage
+    - title: Common UIModel Reference
+      url: black_ops_3/lui_model_reference.html
       output: web,pdf
       type: homepage
     - title: Element Positioning
