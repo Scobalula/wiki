@@ -12,6 +12,7 @@ folder: black_ops_3
 ## List of common UIModels
 
 *Scripted* models are ones that are not handled by the engine directly, and are not set up to behave as if they did. For these ones, you will probably need to add a `CreateModel` call to use them.
+
 | Model Name | Data Type | Summary |
 | -------- | ------- | ------- |
 | CurrentWeapon.ammoInClip | Integer | Current weapon's magazine ammo |
