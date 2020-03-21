@@ -86,12 +86,16 @@ entries:
     output: web,pdf
     folderitems:
 
-    - title: UI Element Function Reference
+    - title: Element Function Reference
       url: black_ops_3/lui_element_functions.html
       output: web,pdf
       type: homepage
-    - title: UI Engine Function Reference
+    - title: Engine Function Reference
       url: black_ops_3/lui_engine_functions.html
+      output: web,pdf
+      type: homepage
+    - title: Common UIModel Reference
+      url: black_ops_3/lui_model_reference.html
       output: web,pdf
       type: homepage
     - title: Element Positioning
@@ -112,6 +116,10 @@ entries:
       type: homepage
     - title: Horizontal Progress Bar
       url: black_ops_3/lui_horizontal_progress_bar.html
+      output: web,pdf
+      type: homepage
+    - title: Enabling Left DPAD HUD
+      url: black_ops_3/lui_enabling_left_dpad.html
       output: web,pdf
       type: homepage
 
