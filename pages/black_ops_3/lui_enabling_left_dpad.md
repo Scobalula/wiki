@@ -60,7 +60,7 @@ Find `AmmoWidget:setTopBottom(false, true, -232.000000, 0.000000)` in your `t7hu
         {
             stateName = "WeaponDualOffsetLeft",
             condition = function(Hud, Element, StateTable)
-                return IsModelValueGreaterThanOrEqualTo(arg1, "currentWeapon.ammoInDWClip", 0.000000)
+                return IsModelValueGreaterThanOrEqualTo(InstanceRef, "currentWeapon.ammoInDWClip", 0.000000)
             end
         },
         {
