@@ -23,4 +23,4 @@ Whenever an `error()` function is called, within existing Black Ops III lua file
 ```
 UI Error: Error message
 ```
-Unfortunately this does not provide information on where the error is happening, but it should greatly help you to identify issues in cases where files are well coded to error if certain conditions aren't met, for example.
+Unfortunately this does not provide information on where the error is happening, but it should greatly help you to identify issues in cases where files are well coded to error if certain conditions aren't met for example.
