@@ -17,7 +17,7 @@ Harmony is a tool that will allow you to edit aliases in-game in real time from 
 
 <div class="alert alert-success" role="alert"><i class="fa fa-download fa-lg"></i><a href="https://dotnet.microsoft.com/download" target="_blank">Click Here</a> to download .NET Core 3.1 Runtime (x64).</div>
 
-<div class="alert alert-success" role="alert"><i class="fa fa-download fa-lg"></i><a href="https://mega.nz/file/sN0RUDKS#VvXtzJ1_WNvyuMdYszdv_4moVM-HY9oPJYcirQOwckU" target="_blank">Click Here</a> to download Harmony.</div>
+<div class="alert alert-success" role="alert"><i class="fa fa-download fa-lg"></i><a href="https://github.com/Scobalula/Harmony/releases" target="_blank">Click Here</a> to download Harmony.</div>
 
 To use Harmony simply run it while a map/mod is running, and make eny edits you want to csv/template files in the aliases or templates folder. Any changes to files in those the aliases and templates folder will trigger an update for Harmony to reload them.
 
