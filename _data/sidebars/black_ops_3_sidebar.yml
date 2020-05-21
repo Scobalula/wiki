@@ -41,11 +41,16 @@ entries:
       url: black_ops_3/nevis_ingame_weapon_editor.html
       output: web, pdf
       type: homepage
-      
+
+    - title: Harmony
+      url: black_ops_3/harmony_alias_compiler.html
+      output: web, pdf
+      type: homepage
+
   - title: Utilities
     output: web, pdf
     folderitems:
-    
+
       - title: UI Error Interception
         url: black_ops_3/utility_ui_errors.html
         output: web, pdf
