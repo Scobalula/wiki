@@ -1,5 +1,5 @@
 ---
-title: Linker Patches
+title: Mod Tools Enhancements
 keywords: tool, plugin, patch, scripting, modding, black ops 3
 last_updated: August 9th, 2019
 tags: [getting_started]
@@ -14,14 +14,17 @@ This is a patch for Linker (and possibly other tools within Black Ops III's Mod 
 * Overrides internal routines to allow linker to take the hash value from the hash (i.e. if provided with `var_7ec446a0` then the hash would be `0x7ec446a0`). It currently looks for function_, hash_, var_, and namespace_. This makes it very useful to call functions from other scripts (for example if you needed to call a function from a map specific script for a mod), override scripts, etc. without knowing their original names.
 * Provides a table that allows you to dictate a hash value for a given string. This is useful for hashes you can't figure out, but want to provide a name for while maintaining the hash.
 * Disables unresolved external checks.
+* Allows loading of raw xanims dumped via HydraX (stored in share/raw/xanim_raw)
 
 In the future other enhancements will be provided for both linker, and other tools such as APE, Radiant, etc.
 
 # Installing
 
-To install simply download the latest version from [Releases](https://github.com/Scobalula/LinkerPatches/releases) and copy the 2 DLL files into `<Black Ops 3 Tools Folder>\bin`. This can be installed alongside DTZxPorter/SE2Dev/Nukem's L3akMod without any issues.
+<div class="alert alert-success" role="alert"><i class="fa fa-download fa-lg"></i><a href="https://discord.gg/RyqyThu" target="_blank">Click Here</a> to join my Discord server to download the latest version.</div>
 
-To uninstall, simply remove PhilLibX.LinkerPatches.dll from your bin folder.
+To install simply copy the 2 DLL files into `<Black Ops 3 Tools Folder>\bin`. This can be installed alongside DTZxPorter/SE2Dev/Nukem's L3akMod without any issues.
+
+To uninstall, simply remove PhilLibX.T7MTEnhancements.dll from your bin folder.
 
 Please report any issues that occur.
 

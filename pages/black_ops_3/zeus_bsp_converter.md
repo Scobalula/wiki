@@ -15,7 +15,7 @@ This is a tool that will allow you to convert bsp files produced by Black Ops II
 
 # Using Zeus
 
-<div class="alert alert-success" role="alert"><i class="fa fa-download fa-lg"></i><a href="https://mega.nz/#!odd0GC7b!DgxnkGBZ9lfDRHiZQQFM-SIzE7WgYxYxwVQku1u8xZU" target="_blank">Click Here</a> to download Zeus.</div>
+<div class="alert alert-success" role="alert"><i class="fa fa-download fa-lg"></i><a href="https://discord.gg/RyqyThu" target="_blank">Click Here</a> to join my Discord server to download the latest version.</div>
 
 {% include note.html content="This tool is primarily provided for Black Ops 3 mappers looking to create cinematics, converting large parts of their maps to models, etc. If you're looking for the tool to do something more, then it's not for you." %}
 

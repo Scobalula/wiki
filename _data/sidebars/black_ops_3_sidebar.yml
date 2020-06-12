@@ -22,7 +22,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Linker Patches
+    - title: Mod Tools Enhancements
       url: black_ops_3/tool_patches.html
       output: web, pdf
       type: homepage

@@ -15,7 +15,7 @@ This is a tool that allows you to edit Black Ops III's LVI Files, these files di
 
 # Using SunSh1n3
 
-<div class="alert alert-success" role="alert"><i class="fa fa-download fa-lg"></i> <a href="https://mega.nz/#!NB8nTQ5a!1H9dWL44rPZCWwaLZmhRPnJs9ns7E_fqavLbpW87MKM" target="_blank">Click Here</a> to download SunSh1n3.</div>
+<div class="alert alert-success" role="alert"><i class="fa fa-download fa-lg"></i><a href="https://discord.gg/RyqyThu" target="_blank">Click Here</a> to join my Discord server to download the latest version.</div>
 
 {% include note.html content="You can load LVI files provided to us by Treyarch and edit them instead of starting from scratch." %}
 {% include note.html content="To quickly reload your LVI file in Radiant, you can untick and tick the USE_BLOOM and USE_COLOR boxes in the PBG entity." %}

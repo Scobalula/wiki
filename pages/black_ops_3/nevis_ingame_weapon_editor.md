@@ -15,7 +15,7 @@ This tool will allow you to edit any weapon in-game.
 
 # Using Nevis
 
-<div class="alert alert-success" role="alert"><i class="fa fa-download fa-lg"></i><a href="https://discord.gg/fGVpV39" target="_blank">Click Here</a> to join my Discord server to download the latest version.</div>
+<div class="alert alert-success" role="alert"><i class="fa fa-download fa-lg"></i><a href="https://discord.gg/RyqyThu" target="_blank">Click Here</a> to join my Discord server to download the latest version.</div>
 
 Using Nevis is simple, to vibe:
 
