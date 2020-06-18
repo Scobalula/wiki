@@ -2,7 +2,7 @@
 title: CoDMayaTools
 keywords: tool, plugin, patch, scripting, modding, black ops 3
 last_updated: June 18th, 2020
-credits: [Scobalula, Aidan, Maciej Zaremba]
+credits: [Scobalula, Aidan, Maciej Zaremba, DTZxPorter (PyCoD), SE2Dev (PyCoD)]
 summary: "A plug-in for exporting XAnims, XModels, and XCams from Maya"
 sidebar: black_ops_3_sidebar
 permalink: black_ops_3/codmayatools.html
