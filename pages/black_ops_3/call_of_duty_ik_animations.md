@@ -9,6 +9,8 @@ permalink: black_ops_3/call_of_duty_ik_animations.html
 folder: black_ops_3
 ---
 
+{% include important.html content="**This guide has been archived and so therefore is no longer supported or recommended.** There will be a guide to replace this one at some point in future." %}
+
 {% include important.html content="If you want to be able to do IK anims you need to have the necessary knowledge in Maya and a basic understanding of inverse and Forward kinematics aswell as animation layers." %}
 
 {% include note.html content="You will need: [Greyhound](https://github.com/Scobalula/Greyhound/releases), [Autodesk Maya](https://www.autodesk.com/education/free-software/maya), A set of viewhands from the game the IK anims are from and [SETools](https://github.com/dtzxporter/SETools)." %}
