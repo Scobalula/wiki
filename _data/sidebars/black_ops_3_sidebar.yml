@@ -83,15 +83,6 @@ entries:
       output: web, pdf
       type: homepage
 
-  - title: Animation
-    output: web,pdf
-    folderitems:
-
-    - title: How to use Call of Duty IK Anims
-      url: black_ops_3/call_of_duty_ik_animations.html
-      output: web,pdf
-      type: homepage
-
   - title: Weapons
     output: web,pdf
     folderitems:
@@ -148,5 +139,14 @@ entries:
 
     - title: Using Developer Mode
       url: black_ops_3/using_developer_mode.html
+      output: web,pdf
+      type: homepage
+  
+  - title: Archived
+    output: web,pdf
+    folderitems:
+    
+    - title: How to use Call of Duty IK Anims
+      url: black_ops_3/call_of_duty_ik_animations.html
       output: web,pdf
       type: homepage
