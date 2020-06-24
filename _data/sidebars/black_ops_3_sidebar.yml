@@ -69,6 +69,10 @@ entries:
         url: black_ops_3/converting_bf1_textures.html
         output: web, pdf
         type: homepage
+      - title: Inverse Kinematics
+        url: black_ops_3/inverse_kinematics.html
+        output: web, pdf
+        type: homepage
 
   - title: Audio
     output: web, pdf
