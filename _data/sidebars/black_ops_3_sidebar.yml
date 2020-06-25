@@ -145,12 +145,20 @@ entries:
       url: black_ops_3/using_developer_mode.html
       output: web,pdf
       type: homepage
-  
+
   - title: Archived
     output: web,pdf
     folderitems:
-    
+
     - title: How to use Call of Duty IK Anims
       url: black_ops_3/call_of_duty_ik_animations.html
       output: web,pdf
       type: homepage
+
+  - title: Character Downloads
+    output: web, pdf
+    folderitems:
+
+    - title: "Call of Duty: Ghosts Space Suits"
+      url: black_ops_3/ghosts_spacesuits.html
+      output: web, pdf
