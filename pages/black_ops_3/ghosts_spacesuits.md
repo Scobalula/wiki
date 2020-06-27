@@ -9,9 +9,9 @@ permalink: black_ops_3/ghosts_spacesuits.html
 folder: black_ops_3
 ---
 
-<div class="alert alert-success" role="alert"><i class="fa fa-download fa-lg"></i><a href="https://discord.gg/RyqyThu" target="_blank">Click Here</a> to join my Discord server to download the latest version.</div>
+<div class="alert alert-success" role="alert"><i class="fa fa-download fa-lg"></i><a href="https://discord.gg/RyqyThu" target="_blank">Click Here</a> to join my Discord server to download the latest version by searching in: 📦scob-releases F5E4D795 once you have joined.</div>
 
-<div class="alert alert-success" role="alert"><i class="fa fa-download fa-lg"></i><a href="https://imgur.com/a/HJguKO6" target="_blank">Click Here</a> to view screenshots of the Space Suits</div>
+<div class="alert alert-success" role="alert"><i class="fa fa-download fa-lg"></i><a href="https://imgur.com/a/HJguKO6" target="_blank">Click Here</a> to view screenshots of the MWR MP Characters</div>
 
 {% include important.html content="This tutorial does not include a customization table and uses a simple XModel override, if you don't know what a customization table is you probably don't need one, if you do and need one, you'll need to set up it up yourself." %}
 

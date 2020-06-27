@@ -162,3 +162,7 @@ entries:
     - title: "Call of Duty: Ghosts Space Suits"
       url: black_ops_3/ghosts_spacesuits.html
       output: web, pdf
+
+    - title: "Call of Duty: MWR MP Characters"
+      url: black_ops_3/mwr_mp_characters.html
+      output: web, pdf
