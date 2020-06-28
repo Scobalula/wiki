@@ -21,12 +21,6 @@ entries:
   - title: Tools/Plugins
     output: web, pdf
     folderitems:
-
-    - title: Mod Tools Enhancements
-      url: black_ops_3/tool_patches.html
-      output: web, pdf
-      type: homepage
-
     - title: SunSh1n3
       url: black_ops_3/sunshine_lvi_editor.html
       output: web, pdf
@@ -34,16 +28,6 @@ entries:
 
     - title: Zeus
       url: black_ops_3/zeus_bsp_converter.html
-      output: web, pdf
-      type: homepage
-
-    - title: Nevis
-      url: black_ops_3/nevis_ingame_weapon_editor.html
-      output: web, pdf
-      type: homepage
-
-    - title: Harmony
-      url: black_ops_3/harmony_alias_compiler.html
       output: web, pdf
       type: homepage
 
