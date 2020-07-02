@@ -150,3 +150,7 @@ entries:
     - title: "Call of Duty: MWR MP Characters"
       url: black_ops_3/mwr_mp_characters.html
       output: web, pdf
+
+    - title: "Call of Duty: WW2 MP Characters"
+      url: black_ops_3/ww2_mp_characters.html
+      output: web, pdf
