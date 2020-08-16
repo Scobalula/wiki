@@ -9,6 +9,8 @@ permalink: black_ops_3/lui_clips_and_states.html
 folder: black_ops_3
 ---
 
+{% include custom/modified.html date="16/8/2020" content="- Fixed an incorrect function in the looping clips section (`Elem.playClip -> PlayClip`)" %}
+
 {% include note.html content="It is recommended to familiarise yourself with the more basic aspects of LUI such as model subscriptions before you follow this guide." %}
 
 ## What are clips and states?
@@ -254,7 +256,7 @@ Elem.clipsPerState = {
                 else
                     Element:registerEventHandler("transition_complete_keyframe", function(Element2, Event2) --We're doing another function here to check if the second part was interrupted... 
                         if not Event2.interrupted then
-                            Elem.playClip("FancyClip") --Play this clip again, as we weren't interrupted!
+                            PlayClip(Elem, "FancyClip", InstanceRef)
                         end
                         Elem.clipFinished(Element2, {}) --Clip is finished
                     end)
